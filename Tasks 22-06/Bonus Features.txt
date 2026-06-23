@@ -1,0 +1,13 @@
+🌟 Bonus Features (For Advanced Students)
+
+Students can additionally add:
+
+Data visualization using Matplotlib
+
+Export cleaned dataset to CSV
+
+Employee performance analysis
+
+Salary prediction system
+
+Interactive dashboard

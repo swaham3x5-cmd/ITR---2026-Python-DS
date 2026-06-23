@@ -1,0 +1,34 @@
+The program should:
+
+✅ Read employee dataset from CSV file
+
+✅ Display:
+
+Employee details
+Average salary
+Highest salary
+Lowest salary
+Department-wise salary analysis
+
+✅ Handle missing values
+
+✅ Sort employee salaries
+
+________________
+
+🖥️ Sample Output
+----- HR DATA ANALYSIS REPORT -----
+
+Total Employees = 5
+
+Average Salary = 45000
+
+Highest Salary = 70000
+
+Lowest Salary = 30000
+
+Department-wise Average Salary:
+
+HR           35000
+IT           60000
+Marketing    40000
