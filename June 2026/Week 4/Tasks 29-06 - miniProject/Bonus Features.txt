@@ -1,0 +1,10 @@
+🌟 Bonus Features (Optional)
+
+You can additionally add:
+
+* Data Visualization using Matplotlib
+* Outlier Visualization using Boxplots
+* Correlation Heatmap (Optional)
+* Automated Cleaning Pipeline
+* Export Cleaned Dataset to Excel
+* Create Reusable Preprocessing Functions

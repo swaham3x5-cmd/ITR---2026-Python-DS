@@ -1,0 +1,41 @@
+📌 Today's Task
+
+Download a *real-world dataset from Kaggle* and perform complete data cleaning and preprocessing.
+
+---
+
+# 📋 Requirements
+
+You should:
+
+✅ Load dataset using Pandas
+
+✅ Display dataset information using:
+
+* `head()`
+* `info()`
+* `describe()`
+
+✅ Check dataset shape (Rows & Columns)
+✅ Handle missing values
+✅ Remove duplicate records
+✅ Detect and remove outliers (IQR Method)
+✅ Perform basic feature engineering
+✅ Merge additional datasets (if required)
+✅ Save the cleaned dataset into a new CSV file
+_____________________________________________
+
+# 🖥 Sample Output```
+----- DATA CLEANING REPORT -----
+
+Original Rows = 5000
+
+Missing Values Removed = 245
+
+Duplicate Rows Removed = 32
+
+Outliers Removed = 15
+
+Final Cleaned Rows = 4708
+
+Dataset Successfully Cleaned!
