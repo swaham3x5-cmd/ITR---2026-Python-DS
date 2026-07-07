@@ -1,0 +1,500 @@
+Order_ID,Order_Date,Product_Name,Category,Quantity,Unit_Price,Total_Sales,Region,Customer_Type,Payment_Method
+1001,02-01-2025,Laptop,Electronics,2,50353,100706,Chennai,Premimum,Card
+1002,03-01-2025,Headphones,Electronics,2,2008,4016,Delhi,New,UPI
+1003,04-01-2025,Shoes,Fashion,1,4736,4736,Chennai,New,UPI
+1004,05-01-2025,Watch,Other,2,10072,20144,Pune,Premimum,Card
+1005,06-01-2025,Mobile Case,Other,2,920,1840,Pune,New,UPI
+1006,07-01-2025,Tablet,Electronics,1,13225,13225,Delhi,Returning,COD
+1007,08-01-2025,Book,Books,3,621,1863,Hyderabad,Premimum,UPI
+1008,09-01-2025,Backpack,Fashion,2,905,1810,Bangalore,New,COD
+1009,10-01-2025,Smartwatch,Electronics,1,8563,8563,Hyderabad,Returning,Card
+1010,11-01-2025,Water Bottle,Other,1,268,268,Chennai,New,UPI
+1011,12-01-2025,Laptop,Electronics,2,54018,108036,Hyderabad,Returning,Card
+1012,13-01-2025,Headphones,Electronics,3,4762,14286,Delhi,Returning,UPI
+1013,14-01-2025,Shoes,Fashion,2,4880,9760,Pune,Returning,COD
+1014,15-01-2025,Watch,Other,1,8508,8508,Chennai,Returning,Card
+1015,16-01-2025,Mobile Case,Other,4,119,476,Chennai,New,UPI
+1016,17-01-2025,Tablet,Electronics,1,37589,37589,Mumbai,New,COD
+1017,18-01-2025,Book,Books,1,781,781,Delhi,Premimum,UPI
+1018,19-01-2025,Backpack,Fashion,5,809,4045,Mumbai,Premimum,UPI
+1019,20-01-2025,Smartwatch,Electronics,2,4129,8258,Pune,Premimum,UPI
+1020,21-01-2025,Water Bottle,Other,4,168,672,Delhi,Returning,COD
+1021,22-01-2025,Laptop,Electronics,2,68516,137032,Pune,Premimum,COD
+1022,23-01-2025,Headphones,Electronics,1,3985,3985,Mumbai,New,Card
+1023,24-01-2025,Shoes,Fashion,1,2380,2380,Mumbai,Returning,UPI
+1024,25-01-2025,Watch,Other,3,13522,40566,Bangalore,New,UPI
+1025,26-01-2025,Mobile Case,Other,1,340,340,Pune,Premimum,COD
+1026,27-01-2025,Tablet,Electronics,1,34153,34153,Bangalore,Returning,UPI
+1027,28-01-2025,Book,Books,1,884,884,Delhi,Returning,UPI
+1028,29-01-2025,Backpack,Fashion,1,1961,1961,Pune,New,COD
+1029,30-01-2025,Smartwatch,Electronics,1,7608,7608,Pune,Premimum,UPI
+1030,31-01-2025,Water Bottle,Other,5,126,630,Hyderabad,Premimum,COD
+1031,01-02-2025,Laptop,Electronics,1,68088,68088,Hyderabad,New,COD
+1032,02-02-2025,Headphones,Electronics,3,2723,8169,Delhi,New,UPI
+1033,03-02-2025,Shoes,Fashion,1,4157,4157,Mumbai,New,COD
+1034,04-02-2025,Watch,Other,3,3589,10767,Pune,Returning,UPI
+1035,05-02-2025,Mobile Case,Other,3,414,1242,Delhi,Returning,UPI
+1036,06-02-2025,Tablet,Electronics,2,15134,30268,Bangalore,Returning,Card
+1037,07-02-2025,Book,Books,5,605,3025,Hyderabad,Returning,Card
+1038,08-02-2025,Backpack,Fashion,3,1857,5571,Delhi,Returning,Card
+1039,09-02-2025,Smartwatch,Electronics,1,5190,5190,Chennai,Returning,COD
+1040,10-02-2025,Water Bottle,Other,4,338,1352,Bangalore,Premimum,COD
+1041,11-02-2025,Laptop,Electronics,1,52555,52555,Hyderabad,New,COD
+1042,12-02-2025,Headphones,Electronics,1,2478,2478,Delhi,Returning,UPI
+1043,13-02-2025,Shoes,Fashion,2,4368,8736,Chennai,Returning,COD
+1044,14-02-2025,Watch,Other,5,4294,21470,Pune,Returning,UPI
+1045,15-02-2025,Mobile Case,Other,5,877,4385,Chennai,Premimum,Card
+1046,16-02-2025,Tablet,Electronics,2,35059,70118,Hyderabad,Premimum,UPI
+1047,17-02-2025,Book,Books,3,935,2805,Chennai,New,UPI
+1048,18-02-2025,Backpack,Fashion,1,1978,1978,Chennai,New,Card
+1049,19-02-2025,Smartwatch,Electronics,2,14326,28652,Mumbai,Premimum,Card
+1050,20-02-2025,Water Bottle,Other,3,100,300,Mumbai,New,Card
+1051,21-02-2025,Laptop,Electronics,2,54846,109692,Chennai,New,COD
+1052,22-02-2025,Headphones,Electronics,3,4855,14565,Chennai,New,Card
+1053,23-02-2025,Shoes,Fashion,3,1718,5154,Hyderabad,Premimum,UPI
+1054,24-02-2025,Watch,Other,5,17415,87075,Pune,New,COD
+1055,25-02-2025,Mobile Case,Other,3,661,1983,Mumbai,New,UPI
+1056,26-02-2025,Tablet,Electronics,2,30075,60150,Pune,Returning,Card
+1057,27-02-2025,Book,Books,3,387,1161,Hyderabad,Premimum,Card
+1058,28-02-2025,Backpack,Fashion,5,1084,5420,Mumbai,New,UPI
+1059,01-03-2025,Smartwatch,Electronics,1,11559,11559,Mumbai,New,Card
+1060,02-03-2025,Water Bottle,Other,5,717,3585,Delhi,Premimum,UPI
+1061,03-03-2025,Laptop,Electronics,2,51590,103180,Pune,Returning,COD
+1062,04-03-2025,Headphones,Electronics,2,2555,5110,Bangalore,New,UPI
+1063,05-03-2025,Shoes,Fashion,3,3601,10803,Pune,New,COD
+1064,06-03-2025,Watch,Other,5,9924,49620,Chennai,Premimum,UPI
+1065,07-03-2025,Mobile Case,Other,5,511,2555,Delhi,Returning,COD
+1066,08-03-2025,Tablet,Electronics,1,29247,29247,Delhi,New,COD
+1067,09-03-2025,Book,Books,4,699,2796,Pune,Premimum,UPI
+1068,10-03-2025,Backpack,Fashion,5,566,2830,Hyderabad,Returning,COD
+1069,11-03-2025,Smartwatch,Electronics,1,5629,5629,Bangalore,Premimum,UPI
+1070,12-03-2025,Water Bottle,Other,3,579,1737,Delhi,Returning,Card
+1071,13-03-2025,Laptop,Electronics,2,58940,117880,Pune,New,Card
+1072,14-03-2025,Headphones,Electronics,1,3615,3615,Pune,New,UPI
+1073,15-03-2025,Shoes,Fashion,3,3472,10416,Delhi,Premimum,COD
+1074,16-03-2025,Watch,Other,1,2976,2976,Delhi,Returning,Card
+1075,17-03-2025,Mobile Case,Other,3,359,1077,Bangalore,Premimum,Card
+1076,18-03-2025,Tablet,Electronics,1,20775,20775,Bangalore,New,COD
+1077,19-03-2025,Book,Books,4,920,3680,Delhi,New,Card
+1078,20-03-2025,Backpack,Fashion,2,907,1814,Pune,Premimum,UPI
+1079,21-03-2025,Smartwatch,Electronics,1,13388,13388,Pune,Returning,COD
+1080,22-03-2025,Water Bottle,Other,2,372,744,Hyderabad,New,UPI
+1081,23-03-2025,Laptop,Electronics,1,44531,44531,Delhi,Premimum,COD
+1082,24-03-2025,Headphones,Electronics,2,1963,3926,Hyderabad,Premimum,Card
+1083,25-03-2025,Shoes,Fashion,1,2483,2483,Pune,New,Card
+1084,26-03-2025,Watch,Other,5,18677,93385,Mumbai,New,COD
+1085,27-03-2025,Mobile Case,Other,1,583,583,Pune,New,Card
+1086,28-03-2025,Tablet,Electronics,1,34775,34775,Pune,Returning,Card
+1087,29-03-2025,Book,Books,3,635,1905,Pune,New,Card
+1088,30-03-2025,Backpack,Fashion,5,527,2635,Pune,Returning,COD
+1089,31-03-2025,Smartwatch,Electronics,2,3327,6654,Mumbai,Returning,COD
+1090,01-04-2025,Water Bottle,Other,1,383,383,Hyderabad,New,UPI
+1091,02-04-2025,Laptop,Electronics,1,61156,61156,Chennai,Premimum,UPI
+1092,03-04-2025,Headphones,Electronics,1,3607,3607,Delhi,Returning,COD
+1093,04-04-2025,Shoes,Fashion,3,3055,9165,Pune,Premimum,COD
+1094,05-04-2025,Watch,Other,4,18106,72424,Pune,New,COD
+1095,06-04-2025,Mobile Case,Other,5,103,515,Delhi,Premimum,UPI
+1096,07-04-2025,Tablet,Electronics,1,13217,13217,Pune,Returning,Card
+1097,08-04-2025,Book,Books,2,511,1022,Hyderabad,Premimum,COD
+1098,09-04-2025,Backpack,Fashion,2,513,1026,Mumbai,Premimum,UPI
+1099,10-04-2025,Smartwatch,Electronics,2,6283,12566,Chennai,Premimum,UPI
+1100,11-04-2025,Water Bottle,Other,4,552,2208,Delhi,Premimum,COD
+1101,12-04-2025,Laptop,Electronics,1,56441,56441,Chennai,Returning,Card
+1102,13-04-2025,Headphones,Electronics,2,4833,9666,Hyderabad,Premimum,UPI
+1103,14-04-2025,Shoes,Fashion,1,1314,1314,Hyderabad,Premimum,Card
+1104,15-04-2025,Watch,Other,1,5201,5201,Chennai,New,COD
+1105,16-04-2025,Mobile Case,Other,2,469,938,Chennai,New,Card
+1106,17-04-2025,Tablet,Electronics,2,24448,48896,Pune,New,UPI
+1107,18-04-2025,Book,Books,3,378,1134,Mumbai,New,UPI
+1108,19-04-2025,Backpack,Fashion,1,1310,1310,Mumbai,New,UPI
+1109,20-04-2025,Smartwatch,Electronics,1,5590,5590,Mumbai,Returning,COD
+1110,21-04-2025,Water Bottle,Other,3,405,1215,Delhi,Premimum,COD
+1111,22-04-2025,Laptop,Electronics,1,51984,51984,Bangalore,Premimum,COD
+1112,23-04-2025,Headphones,Electronics,3,2766,8298,Chennai,Returning,COD
+1113,24-04-2025,Shoes,Fashion,3,2625,7875,Mumbai,Premimum,UPI
+1114,25-04-2025,Watch,Other,2,2573,5146,Pune,Returning,UPI
+1115,26-04-2025,Mobile Case,Other,2,798,1596,Delhi,Premimum,COD
+1116,27-04-2025,Tablet,Electronics,2,31517,63034,Mumbai,Premimum,Card
+1117,28-04-2025,Book,Books,1,343,343,Chennai,Returning,UPI
+1118,29-04-2025,Backpack,Fashion,3,1021,3063,Chennai,Returning,COD
+1119,30-04-2025,Smartwatch,Electronics,1,8543,8543,Mumbai,Premimum,Card
+1120,01-05-2025,Water Bottle,Other,2,235,470,Delhi,Returning,Card
+1121,02-05-2025,Laptop,Electronics,1,51840,51840,Delhi,Premimum,COD
+1122,03-05-2025,Headphones,Electronics,2,4435,8870,Chennai,Premimum,COD
+1123,04-05-2025,Shoes,Fashion,3,2138,6414,Chennai,Premimum,Card
+1124,05-05-2025,Watch,Other,5,5434,27170,Hyderabad,Premimum,Card
+1125,06-05-2025,Mobile Case,Other,1,961,961,Chennai,Premimum,UPI
+1126,07-05-2025,Tablet,Electronics,2,28891,57782,Pune,New,Card
+1127,08-05-2025,Book,Books,3,433,1299,Mumbai,Premimum,COD
+1128,09-05-2025,Backpack,Fashion,2,912,1824,Mumbai,Premimum,COD
+1129,10-05-2025,Smartwatch,Electronics,2,12792,25584,Chennai,New,Card
+1130,11-05-2025,Water Bottle,Other,3,150,450,Bangalore,New,COD
+1131,12-05-2025,Laptop,Electronics,1,61259,61259,Hyderabad,New,Card
+1132,13-05-2025,Headphones,Electronics,1,2998,2998,Chennai,Premimum,Card
+1133,14-05-2025,Shoes,Fashion,3,1682,5046,Hyderabad,New,UPI
+1134,15-05-2025,Watch,Other,1,12576,12576,Chennai,Premimum,UPI
+1135,16-05-2025,Mobile Case,Other,1,740,740,Mumbai,Returning,COD
+1136,17-05-2025,Tablet,Electronics,2,38690,77380,Hyderabad,New,UPI
+1137,18-05-2025,Book,Books,1,309,309,Mumbai,Returning,Card
+1138,19-05-2025,Backpack,Fashion,3,1670,5010,Hyderabad,Returning,UPI
+1139,20-05-2025,Smartwatch,Electronics,1,13908,13908,Pune,Premimum,Card
+1140,21-05-2025,Water Bottle,Other,1,619,619,Pune,New,COD
+1141,22-05-2025,Laptop,Electronics,1,58661,58661,Delhi,Premimum,COD
+1142,23-05-2025,Headphones,Electronics,3,3441,10323,Pune,New,COD
+1143,24-05-2025,Shoes,Fashion,2,4503,9006,Delhi,New,Card
+1144,25-05-2025,Watch,Other,5,10835,54175,Chennai,Returning,UPI
+1145,26-05-2025,Mobile Case,Other,2,334,668,Pune,Returning,UPI
+1146,27-05-2025,Tablet,Electronics,2,14992,29984,Delhi,Premimum,COD
+1147,28-05-2025,Book,Books,3,385,1155,Delhi,New,Card
+1148,29-05-2025,Backpack,Fashion,1,1196,1196,Mumbai,Returning,UPI
+1149,30-05-2025,Smartwatch,Electronics,2,4766,9532,Bangalore,Returning,Card
+1150,31-05-2025,Water Bottle,Other,4,317,1268,Chennai,Premimum,COD
+1151,01-06-2025,Laptop,Electronics,2,59735,119470,Delhi,Returning,UPI
+1152,02-06-2025,Headphones,Electronics,2,3950,7900,Pune,New,UPI
+1153,03-06-2025,Shoes,Fashion,2,3263,6526,Chennai,New,UPI
+1154,04-06-2025,Watch,Other,4,8514,34056,Delhi,New,COD
+1155,05-06-2025,Mobile Case,Other,2,172,344,Bangalore,Premimum,COD
+1156,06-06-2025,Tablet,Electronics,1,21077,21077,Bangalore,New,UPI
+1157,07-06-2025,Book,Books,5,747,3735,Bangalore,Returning,COD
+1158,08-06-2025,Backpack,Fashion,2,850,1700,Pune,Premimum,Card
+1159,09-06-2025,Smartwatch,Electronics,2,13771,27542,Chennai,Premimum,Card
+1160,10-06-2025,Water Bottle,Other,4,258,1032,Bangalore,New,UPI
+1161,11-06-2025,Laptop,Electronics,2,44856,89712,Mumbai,New,COD
+1162,12-06-2025,Headphones,Electronics,3,3161,9483,Chennai,New,COD
+1163,13-06-2025,Shoes,Fashion,1,4464,4464,Chennai,Returning,COD
+1164,14-06-2025,Watch,Other,1,4758,4758,Delhi,Returning,COD
+1165,15-06-2025,Mobile Case,Other,4,490,1960,Chennai,Returning,UPI
+1166,16-06-2025,Tablet,Electronics,1,38739,38739,Bangalore,Premimum,UPI
+1167,17-06-2025,Book,Books,3,368,1104,Chennai,New,COD
+1168,18-06-2025,Backpack,Fashion,1,1931,1931,Pune,New,Card
+1169,19-06-2025,Smartwatch,Electronics,2,14370,28740,Mumbai,New,UPI
+1170,20-06-2025,Water Bottle,Other,2,780,1560,Chennai,Returning,COD
+1171,21-06-2025,Laptop,Electronics,2,54865,109730,Bangalore,Premimum,UPI
+1172,22-06-2025,Headphones,Electronics,2,4481,8962,Hyderabad,Premimum,UPI
+1173,23-06-2025,Shoes,Fashion,2,1972,3944,Pune,Premimum,Card
+1174,24-06-2025,Watch,Other,1,9837,9837,Bangalore,Premimum,Card
+1175,25-06-2025,Mobile Case,Other,5,857,4285,Chennai,New,Card
+1176,26-06-2025,Tablet,Electronics,1,20323,20323,Chennai,Premimum,Card
+1177,27-06-2025,Book,Books,5,1000,5000,Bangalore,New,COD
+1178,28-06-2025,Backpack,Fashion,5,1359,6795,Chennai,Returning,COD
+1179,29-06-2025,Smartwatch,Electronics,1,14026,14026,Pune,Returning,Card
+1180,30-06-2025,Water Bottle,Other,2,685,1370,Bangalore,New,UPI
+1181,01-07-2025,Laptop,Electronics,1,54311,54311,Delhi,Returning,UPI
+1182,02-07-2025,Headphones,Electronics,2,1713,3426,Pune,Premimum,Card
+1183,03-07-2025,Shoes,Fashion,2,3204,6408,Bangalore,Returning,UPI
+1184,04-07-2025,Watch,Other,5,18542,92710,Bangalore,New,UPI
+1185,05-07-2025,Mobile Case,Other,1,521,521,Chennai,Premimum,UPI
+1186,06-07-2025,Tablet,Electronics,1,13218,13218,Bangalore,Premimum,UPI
+1187,07-07-2025,Book,Books,2,248,496,Pune,New,UPI
+1188,08-07-2025,Backpack,Fashion,4,1353,5412,Pune,Returning,COD
+1189,09-07-2025,Smartwatch,Electronics,2,13462,26924,Chennai,New,COD
+1190,10-07-2025,Water Bottle,Other,5,404,2020,Bangalore,New,Card
+1191,11-07-2025,Laptop,Electronics,1,59800,59800,Hyderabad,New,COD
+1192,12-07-2025,Headphones,Electronics,2,2639,5278,Delhi,Returning,UPI
+1193,13-07-2025,Shoes,Fashion,1,2167,2167,Mumbai,Premimum,UPI
+1194,14-07-2025,Watch,Other,3,8179,24537,Chennai,Returning,Card
+1195,15-07-2025,Mobile Case,Other,1,374,374,Bangalore,Premimum,Card
+1196,16-07-2025,Tablet,Electronics,1,36595,36595,Pune,Premimum,COD
+1197,17-07-2025,Book,Books,5,570,2850,Hyderabad,New,UPI
+1198,18-07-2025,Backpack,Fashion,3,1005,3015,Hyderabad,New,COD
+1199,19-07-2025,Smartwatch,Electronics,2,14435,28870,Delhi,New,Card
+1200,20-07-2025,Water Bottle,Other,5,351,1755,Bangalore,Returning,Card
+1201,21-07-2025,Laptop,Electronics,2,60581,121162,Pune,Premimum,COD
+1202,22-07-2025,Headphones,Electronics,1,2742,2742,Mumbai,Returning,COD
+1203,23-07-2025,Shoes,Fashion,3,3576,10728,Hyderabad,Premimum,Card
+1204,24-07-2025,Watch,Other,4,15524,62096,Chennai,New,Card
+1205,25-07-2025,Mobile Case,Other,3,973,2919,Pune,New,UPI
+1206,26-07-2025,Tablet,Electronics,2,19223,38446,Pune,Premimum,UPI
+1207,27-07-2025,Book,Books,3,197,591,Mumbai,Returning,Card
+1208,28-07-2025,Backpack,Fashion,4,1862,7448,Chennai,Returning,UPI
+1209,29-07-2025,Smartwatch,Electronics,2,7732,15464,Bangalore,Returning,COD
+1210,30-07-2025,Water Bottle,Other,3,508,1524,Mumbai,Premimum,COD
+1211,31-07-2025,Laptop,Electronics,1,55970,55970,Pune,Premimum,COD
+1212,01-08-2025,Headphones,Electronics,2,2129,4258,Hyderabad,Returning,COD
+1213,02-08-2025,Shoes,Fashion,3,2280,6840,Pune,Premimum,UPI
+1214,03-08-2025,Watch,Other,1,2260,2260,Delhi,Premimum,Card
+1215,04-08-2025,Mobile Case,Other,4,962,3848,Hyderabad,Premimum,UPI
+1216,05-08-2025,Tablet,Electronics,2,12775,25550,Bangalore,Returning,Card
+1217,06-08-2025,Book,Books,2,685,1370,Chennai,New,COD
+1218,07-08-2025,Backpack,Fashion,4,1218,4872,Mumbai,New,COD
+1219,08-08-2025,Smartwatch,Electronics,1,4031,4031,Pune,Premimum,Card
+1220,09-08-2025,Water Bottle,Other,2,140,280,Bangalore,Premimum,Card
+1221,10-08-2025,Laptop,Electronics,2,54557,109114,Hyderabad,Returning,COD
+1222,11-08-2025,Headphones,Electronics,2,1892,3784,Bangalore,Premimum,Card
+1223,12-08-2025,Shoes,Fashion,3,3197,9591,Delhi,Premimum,COD
+1224,13-08-2025,Watch,Other,5,10225,51125,Delhi,Returning,COD
+1225,14-08-2025,Mobile Case,Other,2,899,1798,Mumbai,New,UPI
+1226,15-08-2025,Tablet,Electronics,1,32743,32743,Mumbai,Premimum,Card
+1227,16-08-2025,Book,Books,3,736,2208,Bangalore,Returning,COD
+1228,17-08-2025,Backpack,Fashion,4,1504,6016,Delhi,Premimum,COD
+1229,18-08-2025,Smartwatch,Electronics,2,7086,14172,Pune,Premimum,Card
+1230,19-08-2025,Water Bottle,Other,1,783,783,Hyderabad,Returning,UPI
+1231,20-08-2025,Laptop,Electronics,1,67161,67161,Pune,New,COD
+1232,21-08-2025,Headphones,Electronics,3,2774,8322,Chennai,New,UPI
+1233,22-08-2025,Shoes,Fashion,2,1961,3922,Delhi,Premimum,Card
+1234,23-08-2025,Watch,Other,3,3843,11529,Hyderabad,New,Card
+1235,24-08-2025,Mobile Case,Other,2,515,1030,Mumbai,Premimum,COD
+1236,25-08-2025,Tablet,Electronics,2,18773,37546,Hyderabad,New,COD
+1237,26-08-2025,Book,Books,2,418,836,Hyderabad,New,Card
+1238,27-08-2025,Backpack,Fashion,2,996,1992,Mumbai,Returning,Card
+1239,28-08-2025,Smartwatch,Electronics,2,12569,25138,Hyderabad,Premimum,UPI
+1240,29-08-2025,Water Bottle,Other,3,241,723,Delhi,Returning,Card
+1241,30-08-2025,Laptop,Electronics,1,51561,51561,Pune,New,UPI
+1242,31-08-2025,Headphones,Electronics,3,2846,8538,Delhi,Premimum,Card
+1243,01-09-2025,Shoes,Fashion,2,1792,3584,Hyderabad,Premimum,UPI
+1244,02-09-2025,Watch,Other,1,17414,17414,Hyderabad,Premimum,UPI
+1245,03-09-2025,Mobile Case,Other,5,417,2085,Mumbai,New,COD
+1246,04-09-2025,Tablet,Electronics,1,32293,32293,Pune,Premimum,UPI
+1247,05-09-2025,Book,Books,2,750,1500,Mumbai,Returning,COD
+1248,06-09-2025,Backpack,Fashion,3,1702,5106,Mumbai,Premimum,COD
+1249,07-09-2025,Smartwatch,Electronics,1,10698,10698,Delhi,New,Card
+1250,08-09-2025,Water Bottle,Other,3,468,1404,Delhi,Premimum,UPI
+1251,09-09-2025,Laptop,Electronics,2,57310,114620,Pune,New,COD
+1252,10-09-2025,Headphones,Electronics,1,1155,1155,Mumbai,New,COD
+1253,11-09-2025,Shoes,Fashion,1,3955,3955,Pune,New,UPI
+1254,12-09-2025,Watch,Other,2,11560,23120,Pune,Returning,COD
+1255,13-09-2025,Mobile Case,Other,3,457,1371,Pune,New,UPI
+1256,14-09-2025,Tablet,Electronics,2,22337,44674,Mumbai,New,Card
+1257,15-09-2025,Book,Books,5,379,1895,Mumbai,Returning,COD
+1258,16-09-2025,Backpack,Fashion,5,667,3335,Chennai,New,Card
+1259,17-09-2025,Smartwatch,Electronics,2,13263,26526,Hyderabad,New,UPI
+1260,18-09-2025,Water Bottle,Other,4,503,2012,Pune,Premimum,UPI
+1261,19-09-2025,Laptop,Electronics,1,53499,53499,Chennai,Premimum,Card
+1262,20-09-2025,Headphones,Electronics,1,3910,3910,Bangalore,Premimum,UPI
+1263,21-09-2025,Shoes,Fashion,1,3590,3590,Hyderabad,Returning,Card
+1264,22-09-2025,Watch,Other,5,4354,21770,Bangalore,Returning,UPI
+1265,23-09-2025,Mobile Case,Other,1,878,878,Chennai,Premimum,Card
+1266,24-09-2025,Tablet,Electronics,1,28657,28657,Mumbai,Returning,COD
+1267,25-09-2025,Book,Books,1,394,394,Delhi,Premimum,COD
+1268,26-09-2025,Backpack,Fashion,3,1554,4662,Hyderabad,Premimum,UPI
+1269,27-09-2025,Smartwatch,Electronics,1,4066,4066,Bangalore,Returning,UPI
+1270,28-09-2025,Water Bottle,Other,5,210,1050,Delhi,New,UPI
+1271,29-09-2025,Laptop,Electronics,1,40792,40792,Bangalore,Returning,Card
+1272,30-09-2025,Headphones,Electronics,2,3380,6760,Delhi,New,Card
+1273,01-10-2025,Shoes,Fashion,2,1061,2122,Hyderabad,Premimum,Card
+1274,02-10-2025,Watch,Other,5,9610,48050,Hyderabad,Returning,UPI
+1275,03-10-2025,Mobile Case,Other,1,901,901,Delhi,Returning,UPI
+1276,04-10-2025,Tablet,Electronics,2,18752,37504,Pune,Returning,Card
+1277,05-10-2025,Book,Books,1,129,129,Delhi,Premimum,Card
+1278,06-10-2025,Backpack,Fashion,1,828,828,Hyderabad,Premimum,UPI
+1279,07-10-2025,Smartwatch,Electronics,2,4999,9998,Bangalore,New,UPI
+1280,08-10-2025,Water Bottle,Other,4,677,2708,Pune,New,Card
+1281,09-10-2025,Laptop,Electronics,1,47291,47291,Hyderabad,Returning,Card
+1282,10-10-2025,Headphones,Electronics,3,2127,6381,Pune,Returning,Card
+1283,11-10-2025,Shoes,Fashion,3,2869,8607,Delhi,New,Card
+1284,12-10-2025,Watch,Other,3,7361,22083,Bangalore,Returning,COD
+1285,13-10-2025,Mobile Case,Other,5,828,4140,Delhi,New,UPI
+1286,14-10-2025,Tablet,Electronics,1,16337,16337,Hyderabad,New,UPI
+1287,15-10-2025,Book,Books,3,295,885,Chennai,Premimum,Card
+1288,16-10-2025,Backpack,Fashion,2,1486,2972,Mumbai,Premimum,UPI
+1289,17-10-2025,Smartwatch,Electronics,2,12872,25744,Mumbai,Premimum,COD
+1290,18-10-2025,Water Bottle,Other,3,740,2220,Pune,New,UPI
+1291,19-10-2025,Laptop,Electronics,1,69296,69296,Mumbai,New,Card
+1292,20-10-2025,Headphones,Electronics,1,3960,3960,Bangalore,Premimum,UPI
+1293,21-10-2025,Shoes,Fashion,3,4486,13458,Mumbai,Premimum,UPI
+1294,22-10-2025,Watch,Other,1,18146,18146,Mumbai,Premimum,UPI
+1295,23-10-2025,Mobile Case,Other,1,274,274,Delhi,New,COD
+1296,24-10-2025,Tablet,Electronics,1,34548,34548,Delhi,Returning,UPI
+1297,25-10-2025,Book,Books,1,925,925,Bangalore,Returning,COD
+1298,26-10-2025,Backpack,Fashion,4,899,3596,Mumbai,New,COD
+1299,27-10-2025,Smartwatch,Electronics,2,11888,23776,Hyderabad,New,Card
+1300,28-10-2025,Water Bottle,Other,3,551,1653,Hyderabad,Returning,Card
+1301,29-10-2025,Laptop,Electronics,1,57645,57645,Delhi,New,COD
+1302,30-10-2025,Headphones,Electronics,2,3967,7934,Delhi,Premimum,Card
+1303,31-10-2025,Shoes,Fashion,1,4593,4593,Delhi,Premimum,UPI
+1304,01-11-2025,Watch,Other,4,5728,22912,Delhi,New,COD
+1305,02-11-2025,Mobile Case,Other,2,498,996,Mumbai,New,COD
+1306,03-11-2025,Tablet,Electronics,2,39710,79420,Bangalore,New,UPI
+1307,04-11-2025,Book,Books,3,197,591,Delhi,Premimum,Card
+1308,05-11-2025,Backpack,Fashion,2,1815,3630,Hyderabad,New,UPI
+1309,06-11-2025,Smartwatch,Electronics,2,3949,7898,Chennai,Premimum,UPI
+1310,07-11-2025,Water Bottle,Other,1,208,208,Bangalore,New,COD
+1311,08-11-2025,Laptop,Electronics,1,50605,50605,Bangalore,New,COD
+1312,09-11-2025,Headphones,Electronics,3,4319,12957,Hyderabad,New,COD
+1313,10-11-2025,Shoes,Fashion,1,3721,3721,Delhi,New,Card
+1314,11-11-2025,Watch,Other,2,12930,25860,Pune,Premimum,UPI
+1315,12-11-2025,Mobile Case,Other,4,707,2828,Pune,Returning,Card
+1316,13-11-2025,Tablet,Electronics,2,36907,73814,Hyderabad,Returning,Card
+1317,14-11-2025,Book,Books,1,942,942,Delhi,New,COD
+1318,15-11-2025,Backpack,Fashion,3,826,2478,Bangalore,Premimum,UPI
+1319,16-11-2025,Smartwatch,Electronics,1,3941,3941,Hyderabad,Returning,Card
+1320,17-11-2025,Water Bottle,Other,2,476,952,Chennai,New,Card
+1321,18-11-2025,Laptop,Electronics,2,41658,83316,Pune,Premimum,COD
+1322,19-11-2025,Headphones,Electronics,1,4084,4084,Mumbai,Returning,UPI
+1323,20-11-2025,Shoes,Fashion,3,3098,9294,Pune,Returning,UPI
+1324,21-11-2025,Watch,Other,5,18226,91130,Bangalore,Premimum,COD
+1325,22-11-2025,Mobile Case,Other,5,298,1490,Chennai,Returning,COD
+1326,23-11-2025,Tablet,Electronics,2,12992,25984,Hyderabad,New,COD
+1327,24-11-2025,Book,Books,5,984,4920,Delhi,New,COD
+1328,25-11-2025,Backpack,Fashion,5,1432,7160,Chennai,Premimum,Card
+1329,26-11-2025,Smartwatch,Electronics,2,12324,24648,Hyderabad,New,COD
+1330,27-11-2025,Water Bottle,Other,4,705,2820,Mumbai,Returning,COD
+1331,28-11-2025,Laptop,Electronics,2,66703,133406,Bangalore,New,COD
+1332,29-11-2025,Headphones,Electronics,1,2242,2242,Mumbai,Returning,UPI
+1333,30-11-2025,Shoes,Fashion,3,3095,9285,Pune,Returning,Card
+1334,01-12-2025,Watch,Other,3,4016,12048,Delhi,Returning,Card
+1335,02-12-2025,Mobile Case,Other,4,258,1032,Delhi,New,Card
+1336,03-12-2025,Tablet,Electronics,1,38061,38061,Mumbai,New,COD
+1337,04-12-2025,Book,Books,2,366,732,Delhi,New,UPI
+1338,05-12-2025,Backpack,Fashion,1,1827,1827,Delhi,Returning,Card
+1339,06-12-2025,Smartwatch,Electronics,1,6196,6196,Hyderabad,Premimum,UPI
+1340,07-12-2025,Water Bottle,Other,5,254,1270,Pune,Returning,Card
+1341,08-12-2025,Laptop,Electronics,2,57783,115566,Mumbai,Returning,UPI
+1342,09-12-2025,Headphones,Electronics,3,1302,3906,Delhi,New,COD
+1343,10-12-2025,Shoes,Fashion,1,1283,1283,Delhi,New,UPI
+1344,11-12-2025,Watch,Other,2,10838,21676,Hyderabad,New,UPI
+1345,12-12-2025,Mobile Case,Other,1,895,895,Delhi,Returning,Card
+1346,13-12-2025,Tablet,Electronics,2,14574,29148,Bangalore,Premimum,Card
+1347,14-12-2025,Book,Books,2,348,696,Hyderabad,New,Card
+1348,15-12-2025,Backpack,Fashion,4,544,2176,Mumbai,Premimum,UPI
+1349,16-12-2025,Smartwatch,Electronics,1,13858,13858,Pune,Premimum,Card
+1350,17-12-2025,Water Bottle,Other,3,215,645,Bangalore,Returning,UPI
+1351,18-12-2025,Laptop,Electronics,2,57831,115662,Mumbai,Premimum,COD
+1352,19-12-2025,Headphones,Electronics,1,2608,2608,Hyderabad,New,COD
+1353,20-12-2025,Shoes,Fashion,1,3751,3751,Mumbai,Returning,Card
+1354,21-12-2025,Watch,Other,5,11976,59880,Bangalore,Returning,UPI
+1355,22-12-2025,Mobile Case,Other,1,542,542,Bangalore,Premimum,UPI
+1356,23-12-2025,Tablet,Electronics,2,34854,69708,Mumbai,Premimum,Card
+1357,24-12-2025,Book,Books,4,821,3284,Delhi,New,UPI
+1358,25-12-2025,Backpack,Fashion,5,1003,5015,Mumbai,Returning,COD
+1359,26-12-2025,Smartwatch,Electronics,1,9526,9526,Mumbai,Premimum,UPI
+1360,27-12-2025,Water Bottle,Other,5,317,1585,Chennai,Returning,COD
+1361,28-12-2025,Laptop,Electronics,1,53373,53373,Mumbai,Premimum,COD
+1362,29-12-2025,Headphones,Electronics,2,4853,9706,Chennai,New,Card
+1363,30-12-2025,Shoes,Fashion,2,4788,9576,Pune,Premimum,Card
+1364,31-12-2025,Watch,Other,5,17252,86260,Hyderabad,Returning,COD
+1365,01-01-2026,Mobile Case,Other,5,179,895,Delhi,Premimum,COD
+1366,02-01-2026,Tablet,Electronics,1,29151,29151,Delhi,New,Card
+1367,03-01-2026,Book,Books,4,474,1896,Chennai,Returning,Card
+1368,04-01-2026,Backpack,Fashion,1,1670,1670,Bangalore,Returning,Card
+1369,05-01-2026,Smartwatch,Electronics,2,14676,29352,Bangalore,Premimum,Card
+1370,06-01-2026,Water Bottle,Other,3,635,1905,Bangalore,Premimum,UPI
+1371,07-01-2026,Laptop,Electronics,2,61090,122180,Hyderabad,Premimum,UPI
+1372,08-01-2026,Headphones,Electronics,1,2093,2093,Bangalore,Returning,Card
+1373,09-01-2026,Shoes,Fashion,3,4952,14856,Hyderabad,Premimum,Card
+1374,10-01-2026,Watch,Other,4,11582,46328,Chennai,New,COD
+1375,11-01-2026,Mobile Case,Other,1,267,267,Chennai,Returning,Card
+1376,12-01-2026,Tablet,Electronics,1,36468,36468,Hyderabad,Premimum,COD
+1377,13-01-2026,Book,Books,4,506,2024,Pune,New,COD
+1378,14-01-2026,Backpack,Fashion,1,640,640,Pune,New,COD
+1379,15-01-2026,Smartwatch,Electronics,2,7951,15902,Bangalore,Returning,UPI
+1380,16-01-2026,Water Bottle,Other,2,547,1094,Delhi,Returning,UPI
+1381,17-01-2026,Laptop,Electronics,2,44128,88256,Chennai,Returning,UPI
+1382,18-01-2026,Headphones,Electronics,1,2236,2236,Mumbai,New,COD
+1383,19-01-2026,Shoes,Fashion,1,2086,2086,Mumbai,Premimum,UPI
+1384,20-01-2026,Watch,Other,5,2776,13880,Chennai,Returning,Card
+1385,21-01-2026,Mobile Case,Other,3,950,2850,Hyderabad,New,UPI
+1386,22-01-2026,Tablet,Electronics,2,35262,70524,Chennai,Returning,COD
+1387,23-01-2026,Book,Books,2,987,1974,Bangalore,Premimum,Card
+1388,24-01-2026,Backpack,Fashion,4,1738,6952,Delhi,New,UPI
+1389,25-01-2026,Smartwatch,Electronics,2,12489,24978,Mumbai,New,UPI
+1390,26-01-2026,Water Bottle,Other,1,655,655,Mumbai,Returning,Card
+1391,27-01-2026,Laptop,Electronics,1,43749,43749,Bangalore,Premimum,Card
+1392,28-01-2026,Headphones,Electronics,2,2811,5622,Mumbai,Premimum,COD
+1393,29-01-2026,Shoes,Fashion,2,3024,6048,Chennai,Premimum,UPI
+1394,30-01-2026,Watch,Other,2,3456,6912,Chennai,New,UPI
+1395,31-01-2026,Mobile Case,Other,2,101,202,Hyderabad,New,COD
+1396,01-02-2026,Tablet,Electronics,1,12460,12460,Chennai,Returning,COD
+1397,02-02-2026,Book,Books,2,255,510,Hyderabad,Returning,COD
+1398,03-02-2026,Backpack,Fashion,4,688,2752,Chennai,Premimum,Card
+1399,04-02-2026,Smartwatch,Electronics,2,4109,8218,Delhi,New,Card
+1400,05-02-2026,Water Bottle,Other,2,289,578,Mumbai,Returning,UPI
+1401,06-02-2026,Laptop,Electronics,1,56349,56349,Hyderabad,Returning,COD
+1402,07-02-2026,Headphones,Electronics,3,2075,6225,Hyderabad,Returning,Card
+1403,08-02-2026,Shoes,Fashion,3,3644,10932,Chennai,New,UPI
+1404,09-02-2026,Watch,Other,1,5904,5904,Mumbai,New,UPI
+1405,10-02-2026,Mobile Case,Other,3,295,885,Bangalore,Premimum,COD
+1406,11-02-2026,Tablet,Electronics,1,27414,27414,Chennai,New,Card
+1407,12-02-2026,Book,Books,1,367,367,Bangalore,Premimum,COD
+1408,13-02-2026,Backpack,Fashion,2,698,1396,Pune,Premimum,COD
+1409,14-02-2026,Smartwatch,Electronics,2,13713,27426,Bangalore,Returning,Card
+1410,15-02-2026,Water Bottle,Other,4,626,2504,Delhi,Premimum,COD
+1411,16-02-2026,Laptop,Electronics,2,56913,113826,Delhi,Premimum,Card
+1412,17-02-2026,Headphones,Electronics,1,4959,4959,Mumbai,Premimum,Card
+1413,18-02-2026,Shoes,Fashion,2,2841,5682,Mumbai,Premimum,Card
+1414,19-02-2026,Watch,Other,4,13916,55664,Hyderabad,New,Card
+1415,20-02-2026,Mobile Case,Other,4,151,604,Mumbai,Returning,COD
+1416,21-02-2026,Tablet,Electronics,1,17923,17923,Chennai,New,COD
+1417,22-02-2026,Book,Books,3,843,2529,Bangalore,New,Card
+1418,23-02-2026,Backpack,Fashion,2,1736,3472,Delhi,New,UPI
+1419,24-02-2026,Smartwatch,Electronics,1,13704,13704,Mumbai,Premimum,UPI
+1420,25-02-2026,Water Bottle,Other,5,297,1485,Delhi,Premimum,UPI
+1421,26-02-2026,Laptop,Electronics,2,59030,118060,Hyderabad,Returning,UPI
+1422,27-02-2026,Headphones,Electronics,1,1043,1043,Mumbai,Premimum,UPI
+1423,28-02-2026,Shoes,Fashion,2,3714,7428,Delhi,New,Card
+1424,01-03-2026,Watch,Other,2,4810,9620,Hyderabad,Returning,UPI
+1425,02-03-2026,Mobile Case,Other,3,873,2619,Delhi,Returning,Card
+1426,03-03-2026,Tablet,Electronics,1,16801,16801,Mumbai,Premimum,UPI
+1427,04-03-2026,Book,Books,2,881,1762,Pune,Returning,COD
+1428,05-03-2026,Backpack,Fashion,1,1334,1334,Pune,Premimum,Card
+1429,06-03-2026,Smartwatch,Electronics,1,5467,5467,Bangalore,Premimum,Card
+1430,07-03-2026,Water Bottle,Other,5,767,3835,Delhi,Returning,Card
+1431,08-03-2026,Laptop,Electronics,2,45680,91360,Chennai,Premimum,UPI
+1432,09-03-2026,Headphones,Electronics,1,3500,3500,Hyderabad,Premimum,UPI
+1433,10-03-2026,Shoes,Fashion,1,2356,2356,Hyderabad,Returning,COD
+1434,11-03-2026,Watch,Other,5,7458,37290,Bangalore,Premimum,UPI
+1435,12-03-2026,Mobile Case,Other,3,365,1095,Bangalore,Returning,UPI
+1436,13-03-2026,Tablet,Electronics,2,20872,41744,Bangalore,Premimum,Card
+1437,14-03-2026,Book,Books,5,987,4935,Pune,Premimum,UPI
+1438,15-03-2026,Backpack,Fashion,2,1861,3722,Mumbai,Premimum,COD
+1439,16-03-2026,Smartwatch,Electronics,2,7608,15216,Hyderabad,New,COD
+1440,17-03-2026,Water Bottle,Other,3,672,2016,Bangalore,New,COD
+1441,18-03-2026,Laptop,Electronics,2,53902,107804,Bangalore,Returning,COD
+1442,19-03-2026,Headphones,Electronics,3,3381,10143,Delhi,New,COD
+1443,20-03-2026,Shoes,Fashion,2,3696,7392,Delhi,New,COD
+1444,21-03-2026,Watch,Other,4,19559,78236,Hyderabad,New,Card
+1445,22-03-2026,Mobile Case,Other,5,503,2515,Mumbai,New,Card
+1446,23-03-2026,Tablet,Electronics,1,38392,38392,Pune,New,COD
+1447,24-03-2026,Book,Books,4,113,452,Delhi,New,Card
+1448,25-03-2026,Backpack,Fashion,5,684,3420,Hyderabad,Returning,UPI
+1449,26-03-2026,Smartwatch,Electronics,1,3574,3574,Chennai,New,Card
+1450,27-03-2026,Water Bottle,Other,5,779,3895,Hyderabad,Premimum,COD
+1451,28-03-2026,Laptop,Electronics,1,40358,40358,Hyderabad,Premimum,UPI
+1452,29-03-2026,Headphones,Electronics,3,3269,9807,Chennai,Returning,COD
+1453,30-03-2026,Shoes,Fashion,1,2592,2592,Mumbai,New,COD
+1454,31-03-2026,Watch,Other,3,18529,55587,Pune,Returning,UPI
+1455,01-04-2026,Mobile Case,Other,5,376,1880,Pune,New,Card
+1456,02-04-2026,Tablet,Electronics,2,23687,47374,Chennai,Premimum,UPI
+1457,03-04-2026,Book,Books,2,225,450,Delhi,Returning,UPI
+1458,04-04-2026,Backpack,Fashion,5,882,4410,Bangalore,Returning,COD
+1459,05-04-2026,Smartwatch,Electronics,2,7214,14428,Delhi,Premimum,UPI
+1460,06-04-2026,Water Bottle,Other,5,241,1205,Pune,Returning,COD
+1461,07-04-2026,Laptop,Electronics,2,61490,122980,Mumbai,Premimum,Card
+1462,08-04-2026,Headphones,Electronics,3,4120,12360,Chennai,Returning,COD
+1463,09-04-2026,Shoes,Fashion,1,1206,1206,Delhi,New,COD
+1464,10-04-2026,Watch,Other,4,10934,43736,Mumbai,Returning,UPI
+1465,11-04-2026,Mobile Case,Other,1,326,326,Pune,Premimum,Card
+1466,12-04-2026,Tablet,Electronics,2,37146,74292,Chennai,New,UPI
+1467,13-04-2026,Book,Books,1,235,235,Mumbai,Returning,Card
+1468,14-04-2026,Backpack,Fashion,5,1118,5590,Pune,Returning,UPI
+1469,15-04-2026,Smartwatch,Electronics,2,7110,14220,Mumbai,New,Card
+1470,16-04-2026,Water Bottle,Other,1,333,333,Pune,Returning,UPI
+1471,17-04-2026,Laptop,Electronics,1,62505,62505,Pune,Premimum,UPI
+1472,18-04-2026,Headphones,Electronics,1,3269,3269,Bangalore,Returning,Card
+1473,19-04-2026,Shoes,Fashion,1,3182,3182,Bangalore,Premimum,COD
+1474,20-04-2026,Watch,Other,1,4471,4471,Delhi,New,COD
+1475,21-04-2026,Mobile Case,Other,2,732,1464,Hyderabad,Premimum,Card
+1476,22-04-2026,Tablet,Electronics,2,14850,29700,Pune,New,COD
+1477,23-04-2026,Book,Books,2,179,358,Bangalore,Premimum,UPI
+1478,24-04-2026,Backpack,Fashion,5,1213,6065,Mumbai,Premimum,COD
+1479,25-04-2026,Smartwatch,Electronics,1,5171,5171,Mumbai,New,UPI
+1480,26-04-2026,Water Bottle,Other,1,731,731,Chennai,Returning,Card
+1481,27-04-2026,Laptop,Electronics,1,67499,67499,Chennai,Premimum,UPI
+1482,28-04-2026,Headphones,Electronics,1,4107,4107,Delhi,New,Card
+1483,29-04-2026,Shoes,Fashion,2,2690,5380,Hyderabad,Returning,Card
+1484,30-04-2026,Watch,Other,5,8632,43160,Bangalore,Premimum,Card
+1485,01-05-2026,Mobile Case,Other,2,746,1492,Pune,Returning,COD
+1486,02-05-2026,Tablet,Electronics,2,19358,38716,Pune,New,UPI
+1487,03-05-2026,Book,Books,3,128,384,Bangalore,Premimum,Card
+1488,04-05-2026,Backpack,Fashion,2,1440,2880,Delhi,Premimum,COD
+1489,05-05-2026,Smartwatch,Electronics,1,14302,14302,Chennai,Returning,COD
+1490,06-05-2026,Water Bottle,Other,5,296,1480,Mumbai,New,Card
+1491,07-05-2026,Laptop,Electronics,2,63623,127246,Mumbai,Premimum,UPI
+1492,08-05-2026,Headphones,Electronics,1,2952,2952,Mumbai,New,Card
+1493,09-05-2026,Shoes,Fashion,3,4415,13245,Delhi,New,Card
+1494,10-05-2026,Watch,Other,1,12572,12572,Bangalore,New,COD
+1495,11-05-2026,Mobile Case,Other,5,745,3725,Bangalore,Returning,Card
+1496,12-05-2026,Tablet,Electronics,1,30973,30973,Mumbai,Premimum,COD
+1497,13-05-2026,Book,Books,5,756,3780,Mumbai,New,UPI
+1498,14-05-2026,Backpack,Fashion,1,966,966,Pune,Premimum,Card
+1499,15-05-2026,Smartwatch,Electronics,1,13343,13343,Hyderabad,Premimum,UPI

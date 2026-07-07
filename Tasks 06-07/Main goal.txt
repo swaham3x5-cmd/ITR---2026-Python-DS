@@ -1,0 +1,76 @@
+📋 Project Requirements
+
+Your project should:
+
+✅ Load an E-Commerce Sales Dataset
+
+✅ Clean missing values
+
+✅ Analyze:
+ 
+* Sales trends
+* Product performance
+* Customer segments
+* Revenue patterns
+
+✅ Create:
+
+* Bar Charts
+* Line Charts
+* Scatter Plots
+* Heatmaps
+
+✅ Generate an Insights Report
+
+✅ Export the Report as a PDF
+
+---
+
+# 📌 Project Workflow
+
+| Step | Task                  |
+| ---- | --------------------- |
+| 1    | Load Dataset          |
+| 2    | Clean Data            |
+| 3    | Analyze Data          |
+| 4    | Create Visualizations |
+| 5    | Generate Insights     |
+| 6    | Export Report as PDF  |
+
+---
+
+# 🖥 Sample Output
+
+```text
+----- E-COMMERCE SALES ANALYSIS REPORT -----
+
+Total Sales = 450000
+
+Best Selling Product = Laptop
+
+Highest Revenue Month = December
+
+Average Monthly Revenue = 37500
+
+Customer Segment with Highest Purchases = Premium Customers 
+
+Visual Dashboard Generated Successfully
+
+PDF Report Exported Successfully
+```
+
+---
+
+# 📊 Visualizations to Include
+
+Students should include:
+
+✅ Sales Trend Line Chart
+
+✅ Product Sales Bar Chart
+
+✅ Revenue Heatmap
+
+✅ Customer Segmentation Chart
+
+✅ Profit Distribution Boxplot
