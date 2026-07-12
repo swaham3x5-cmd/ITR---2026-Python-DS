@@ -1,0 +1,38 @@
+Problem Statement:
+
+Develop a Student Management System using the following concepts.
+
+
+The program should satisfy the following requirements:
+
+1. Create a base class "Person" with the data members "name" and "age".
+
+2. Create a derived class "Student" that inherits from the "Person" class. 
+The "Student" class should contain the data members "roll_no", "course" (protected), 
+and "_marks" (private).
+
+3. Use constructors ("_init_") to initialize all the data members.
+
+4. Implement encapsulation by accessing the private data member ("__marks") through 
+public methods such as "setMarks()" and "getMarks()".
+
+5. Create another derived class "SportsStudent" that inherits from the "Student" class
+and adds a data member "sport_name", demonstrating multilevel inheritance.
+
+6. Override the "display()" method in the "SportsStudent" class to demonstrate runtime 
+polymorphism (method overriding).
+
+7. Create a separate class "Result" that contains a method to calculate the student's 
+total marks, percentage, and grade based on the marks obtained.
+
+8. Demonstrate method overloading by creating methods that can display student 
+information with different numbers of parameters (or by using default arguments).
+
+9. Create objects of the classes and demonstrate all the following operations:
+   - Accept or initialize student details.
+   - Display personal details.
+   - Display academic details.
+   - Calculate and display total, percentage, and grade.
+   - Demonstrate encapsulation by accessing marks through getter and setter methods.
+   - Demonstrate inheritance and method overriding by calling the overridden "display()" 
+   method.
